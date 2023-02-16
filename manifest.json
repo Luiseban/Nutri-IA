@@ -15,5 +15,5 @@
     "default_icon": "icon16.png",
     "default_popup": "popup.html"
   },
-  "permissions": ["activeTab", "storage", "https://drive.google.com/drive/folders/14a3NkYsIXUNXmcPYJund-iBxnAXFvn-6?usp=share_link"]
+  "permissions": ["activeTab", "storage", "https://github.com/Luiseban/Nutri-IA.git"]
 }
