@@ -1,0 +1,19 @@
+{
+  "name": "NUTRI-IA Nutritionist",
+  "version": "1.0",
+  "description": "Get personalized nutrition advice from ChatGPT",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": "icon16.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "storage", "https://drive.google.com/drive/folders/14a3NkYsIXUNXmcPYJund-iBxnAXFvn-6?usp=share_link"]
+}
